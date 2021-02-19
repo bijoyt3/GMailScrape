@@ -1,4 +1,4 @@
-# GMail_Scrape
+# GRE_QuestionRepository
 Created a repository of GRE questions scraped from daily Kaplan Test Prep emails
 
 Halfway through studying for the GRE, I ran into an issue many people have faced before: I ran out of free, offical ETS test prep materials. Not one to try third party test materials, I scoured the internet for more official math and verbal questions. At my wits' end, I realized that "wait, I have a treasure trove of questions sitting in my email inbox". Thus began the process of extracting the valuable question data from the emails and storing them in an Excel file as a respository of vetted, high-quality test questions. 
