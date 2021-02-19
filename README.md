@@ -16,3 +16,7 @@ I used the 'email' library to decode the emails into readable text then used 'be
 ### Step 3: Store them in Excel
 
 I stored all the extracted data into distinct lists, combined them into a DataFrame, removed duplicates, and converted it into an Excel file. I was left with 322 new, official GRE questions for practice.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
