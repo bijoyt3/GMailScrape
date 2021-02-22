@@ -3,7 +3,7 @@
 """
 Created on Thu Jan 21 09:01:21 2021
 
-@author: bijoythomas
+@author: bijoy
 
 @description: This script imports emails as an .mbox file, extracts text data with beautiful soup, 
 and outputs it into an Excel file.
